@@ -1,2 +1,2 @@
 # MaterialesDigitales
-Carpeta para la materia de Diseño de materiales Digitales
+Repositorio para la materia de Diseño de materiales Digitales
